@@ -1,0 +1,25 @@
+* {
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  overflow-x: hidden;
+  background-color: black;
+  padding-top: 0px;
+}
+
+.navbar {
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+}
+
+.landing-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.landing-page img {
+  width: 100%;
+}
